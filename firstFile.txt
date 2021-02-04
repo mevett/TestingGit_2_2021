@@ -1,2 +1,3 @@
 Original contents of firstFile
 second of firstFile
+last line is mine says userA
