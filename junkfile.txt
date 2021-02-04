@@ -1,2 +1,3 @@
 First contents of junkfile
 second line of code
+3rd line
